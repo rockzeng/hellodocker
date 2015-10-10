@@ -1,5 +1,5 @@
 PROJECT = sparkexample
-REGISTRY = registry.vbiaoge.com
+REGISTRY = docker.lvqiyi.com
 # Insert your company
 COMPANY = vbiaoge
 
